@@ -36,3 +36,6 @@ frontend:
 
 stop: 
 	docker stop mongodb notes-frontend notes-backend
+
+dev:
+	docker-compose -f docker-compose.yml up -d
