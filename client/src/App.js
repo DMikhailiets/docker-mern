@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <nav className="navbar">
-        <h3>Docker MERN</h3>
+        <h3>GOVNA</h3>
       </nav>
       <div className="container with-nav">
         <Form onCreate={createNote} />
